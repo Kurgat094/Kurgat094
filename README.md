@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://Kurgat094-quant-goldman-sachs-forecastingapp-yxn34x.streamlit.app/) [Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kurgat094&theme=tokyonight)](https://git.io/streak-stats) ![](https://komarev.com/ghpvc/?username=Kurgat094&color=green&hidden=True&style=flat-square&label=PROFILE+VIEWS) ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tky0vrvb3151zocqr034iz6p2&unique={true|1|on|yes}&count=1&width=600&unique=true)
+[Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kurgat094&theme=tokyonight)](https://git.io/streak-stats) ![](https://komarev.com/ghpvc/?username=Kurgat094&color=green&hidden=True&style=flat-square&label=PROFILE+VIEWS) ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tky0vrvb3151zocqr034iz6p2&unique={true|1|on|yes}&count=1&width=600&unique=true)
 
 
 
