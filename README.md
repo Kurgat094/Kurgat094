@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kurgat094&theme=tokyonight)](https://git.io/streak-stats)  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tky0vrvb3151zocqr034iz6p2&unique={true|1|on|yes}&count=1&width=600&unique=true)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kurgat094)](https://git.io/streak-stats)
 
 
 
