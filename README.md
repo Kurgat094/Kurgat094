@@ -8,7 +8,7 @@
 Kurgat094/Kurgat094 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://camo.githubusercontent.com/905b96edece53a982ed9dd6870ce61ad6ee85d6598755f88a859e0322a70842f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kurgat094&theme=tokyonight)](https://git.io/streak-stats)
