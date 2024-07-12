@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Data science projects
 - 📫 How to reach me Tel:0796108292
-  www.linkedin.com/in/tobby-kurgat-844b12280
+  Linkedin @www.linkedin.com/in/tobby-kurgat-844b12280    
   Instagram @https://instagram.com/t.o.b.ykurgat
 <!--
 Kurgat094/Kurgat094 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
