@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kurgat094
 - 👀 I’m interested in web development and data science...
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning React and android
+- 🌱 developer in django
 - 💞️ I’m looking to collaborate on Data science projects
 - 📫 How to reach me Tel:0796108292     
   Linkedin @www.linkedin.com/in/tobby-kurgat-844b12280    
