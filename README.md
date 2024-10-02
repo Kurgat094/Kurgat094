@@ -21,6 +21,9 @@ You can click the Preview link to take a look at your changes.
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+ <p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Kurgat094&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=laytonmusyoki&theme=react" />
+</p>
 
 <div style="display: flex;">
 
