@@ -3,9 +3,14 @@
 - 🌱 I’m currently learning React and android
 - 🌱 developer in django
 - 💞️ I’m looking to collaborate on Data science projects
-- 📫 How to reach me Tel:0796108292     
-  Linkedin @www.linkedin.com/in/tobby-kurgat-844b12280    
-  Instagram @https://instagram.com/t.o.b.ykurgat
+- 📫 How to reach me Tel:0796108292**   
+  <h3 align="center" style="margin-top:20px;">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/@Tobby094" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@laytonmatheka" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/tobby-kurgat-844b12280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="layton musyoki" height="30" width="40" /></a>
+<a href="https://fb.com/Tobby Kurgat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mathexh kalistar musyoki" height="30" width="40" /></a>
+<a href="https://instagram.com/t.o.b.ykurgat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="layton_mm" height="30" width="40" /></a>
+</p>
 <!--
 Kurgat094/Kurgat094 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
