@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 <a href="www.linkedin.com/in/tobby-kurgat-844b12280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="layton musyoki" height="30" width="40" /></a>
 <a href="https://fb.com/Tobby Kurgat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mathexh kalistar musyoki" height="30" width="40" /></a>
 <a href="https://instagram.com/t.o.b.ykurgat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="layton_mm" height="30" width="40" /></a>
-</p>
+</p> <p>😹 </p>
 
 ## 👁️ Profile Views
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Kurgat094)
