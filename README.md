@@ -29,11 +29,11 @@ You can click the Preview link to take a look at your changes.
  
  <p align="center">
   <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Kurgat094&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<a href="https://github.com/laytonmusyoki/github-stats">
+<a href="https://github.com/Kurgat094/github-stats">
 </p>
   <br>
  <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Kurgat094&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=laytonmusyoki&theme=react" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Kurgat094&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=Kurgat094&theme=react" />
 </p>
 
 <div style="display: flex;">
@@ -52,10 +52,10 @@ You can click the Preview link to take a look at your changes.
 <br>
 <h3 align="center" style="margin-top:20px;">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/@Tobby094" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@laytonmatheka" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/tobby-kurgat-844b12280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="layton musyoki" height="30" width="40" /></a>
-<a href="https://fb.com/Tobby Kurgat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mathexh kalistar musyoki" height="30" width="40" /></a>
-<a href="https://instagram.com/t.o.b.ykurgat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="layton_mm" height="30" width="40" /></a>
+<a href="https://twitter.com/@Tobby094" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tobby" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/tobby-kurgat-844b12280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tobias Kurgat" height="30" width="40" /></a>
+<a href="https://fb.com/Tobby Kurgat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kurgat094" height="30" width="40" /></a>
+<a href="https://instagram.com/t.o.b.ykurgat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Tobby" height="30" width="40" /></a>
 </p> <p>😹 </p>
 
 ## 👁️ Profile Views
