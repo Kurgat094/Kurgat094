@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://twitter.com/@Tobby094" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tobby" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/tobby-kurgat-844b12280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tobias Kurgat" height="30" width="40" /></a>
 <a href="https://fb.com/Tobby Kurgat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kurgat094" height="30" width="40" /></a>
-<a href="https://instagram.com/t.o.b.ykurgat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Tobby" height="30" width="40" /></a>
+<a href="https://instagram.com/kurgat.toby/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Tobby" height="30" width="40" /></a>
 </p> <p>😹 </p>
 
 ## 👁️ Profile Views
