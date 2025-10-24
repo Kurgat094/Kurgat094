@@ -1,17 +1,27 @@
 👋 Hi, I'm Kipkogei Tobias Kurgat (@Kurgat094)
 
 -👀 Interests: Web Development | Data Science | Mobile Apps
+
 -🌱 Currently Learning: React | Android Development
+
 -💻 Developer Experience:
+
   --Django / Flask (Python Backend)
+  
   --Laravel (PHP Backend)
+  
   --REST APIs, Authentication & Secure Backend Systems
   
 -🌍 Integration with third-party tools & services (e.g. M-Pesa, Email/SMS gateways, Cloud hosting APIs)
+
 -📊 Passionate about Data Science & Machine Learning
+
 -🤝 Looking to Collaborate On: Data-driven Projects & Open-source Contributions
+
 -📫 Reach Me:
+
   --Tel: 0796108292
+  
   --email:tobiaskipkogei@gmail.com
 
 <div align="left">
