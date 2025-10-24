@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @Kurgat094
-- Kipkogei Tobias Kurgat
-- 👀 I’m interested in web development and data science...
-- 🌱 I’m currently learning React and android
-- 🌱 developer in django/flask
-- 🌱 Laravel Developer 
-- 💞️ I’m looking to collaborate on Data science projects
-- 📫 How to reach me Tel:0796108292
+👋 Hi, I'm Kipkogei Tobias Kurgat (@Kurgat094)
+
+-👀 Interests: Web Development | Data Science | Mobile Apps
+-🌱 Currently Learning: React | Android Development
+-💻 Developer Experience:
+  --Django / Flask (Python Backend)
+  --Laravel (PHP Backend)
+  --REST APIs, Authentication & Secure Backend Systems
+  
+-🌍 Integration with third-party tools & services (e.g. M-Pesa, Email/SMS gateways, Cloud hosting APIs)
+-📊 Passionate about Data Science & Machine Learning
+-🤝 Looking to Collaborate On: Data-driven Projects & Open-source Contributions
+-📫 Reach Me:
+  --Tel: 0796108292
+  --email:tobiaskipkogei@gmail.com
 
 <div align="left">
  <a href="https://instagram.com/t.o.b.ykurgat"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
