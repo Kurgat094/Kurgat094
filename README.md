@@ -71,6 +71,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 
 
