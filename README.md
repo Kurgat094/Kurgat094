@@ -1,27 +1,33 @@
 👋 Hi, I'm Kipkogei Tobias Kurgat (@Kurgat094)
 
--👀 Interests: Web Development | Data Science | Mobile Apps
+💼 **Systems Developer** | Web Development | Business Central & ERP Solutions | Data Science
 
--🌱 Currently Learning: React | Android Development
+-👀 Interests: Web Development | ERP Systems (Business Central) | Data Science | Mobile Apps
+
+-🌱 Currently Learning: React | Android Development | AL Language (Business Central)
 
 -💻 Developer Experience:
 
+  --Microsoft Dynamics 365 Business Central (AL Language, Extensions & Customization)
+
+  --C# / .NET
+
   --Django / Flask (Python Backend)
-  
+
   --Laravel (PHP Backend)
-  
+
   --REST APIs, Authentication & Secure Backend Systems
-  
+
 -🌍 Integration with third-party tools & services (e.g. M-Pesa, Email/SMS gateways, Cloud hosting APIs)
 
 -📊 Passionate about Data Science & Machine Learning
 
--🤝 Looking to Collaborate On: Data-driven Projects & Open-source Contributions
+-🤝 Looking to Collaborate On: ERP/Business Central Projects, Data-driven Projects & Open-source Contributions
 
 -📫 Reach Me:
 
   --Tel: 0796108292
-  
+
   --email:tobiaskipkogei@gmail.com
 
 <div align="left">
@@ -29,8 +35,26 @@
   <a href="https://twitter.com/@Tobby094"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /><a/>
  <a href="tobiaskipkogei@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="www.linkedin.com/in/tobby-kurgat-844b12280"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-</div>   
-  
+</div>
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Business%20Central-002050?style=for-the-badge&logo=microsoft&logoColor=white" alt="Business Central"/>
+  <img src="https://img.shields.io/badge/AL%20Language-002050?style=for-the-badge&logo=microsoft&logoColor=white" alt="AL Language"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
 <!--
 Kurgat094/Kurgat094 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -45,7 +69,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
- 
+
  <p align="center">
   <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Kurgat094&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <a href="https://github.com/Kurgat094/github-stats">
