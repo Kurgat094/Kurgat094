@@ -66,6 +66,7 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kurgat094&theme=tokyonight)](https://git.io/streak-stats)
 
 
+https://github.com/DenverCoder1/github-readme-streak-stats
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
@@ -84,6 +85,7 @@ You can click the Preview link to take a look at your changes.
   <div style="flex: 50%; padding: 10px;">
     <h2>📊 My GitHub Stats</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=Kurgat094&show_icons=true" alt="GitHub Stats" />
+    
   </div>
 
   <div style="flex: 50%; padding: 10px;">
