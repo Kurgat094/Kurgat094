@@ -68,7 +68,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <!-- <a href="https://gitroll.io/profile/ucHkkZNUdnCaPD6gXxmsjEE2vsa32" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ucHkkZNUdnCaPD6gXxmsjEE2vsa32" alt="GitRoll Profile Badge"/></a> -->
 
-<a href="https://gitroll.io/profile/ucHkkZNUdnCaPD6gXxmsjEE2vsa32">
+<a href="https://gitroll.io/profile/ucHkkZNUdnCaPD6gXxmsjEE2vsa32" target="_blank">
   <img src="https://gitroll.io/api/badges/profiles/v1/ucHkkZNUdnCaPD6gXxmsjEE2vsa32" alt="GitRoll Profile Badge"/>
 </a>
 
@@ -103,6 +103,7 @@ You can click the Preview link to take a look at your changes.
 
   <div style="flex: 50%; padding: 10px;">
     <h2>📈 Most Used Languages</h2>
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurgat094&theme=blue-green" alt="Most Used Languages" /> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurgat094&theme=blue-green" alt="Most Used Languages" />
   </div>
 
