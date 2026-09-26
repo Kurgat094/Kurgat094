@@ -44,7 +44,7 @@
   <a href="https://www.linkedin.com/in/tobby-kurgat-844b12280"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
-### 🛠️ My StackS
+### 🛠️ My Stacks
 
 <p align="left">
   <img src="https://img.shields.io/badge/Business%20Central-002050?style=for-the-badge&logo=microsoft&logoColor=white" alt="Business Central"/>
