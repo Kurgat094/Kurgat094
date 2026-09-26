@@ -33,7 +33,7 @@
 
 -📫 Reach Me:
 
-  --Tel: 0796108292
+  --Tel: +254 796108292
 
   --email:tobiaskipkogei@gmail.com
 
