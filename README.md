@@ -104,7 +104,7 @@ You can click the Preview link to take a look at your changes.
   </div>
 
   <div style="flex: 50%; padding: 10px;">
-    <h2>📈 Most Used Languages</h2>
+    <h2>📈 Most Languages Used</h2>
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurgat094&theme=blue-green" alt="Most Used Languages" /> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurgat094&theme=blue-green" alt="Most Used Languages" />
   </div>
