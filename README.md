@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tobias%20Kurgat&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Developer%20%7C%20Business%20Central%20%7C%20Full%20Stack&descAlignY=58&descSize=18" width="100%" alt="header banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Kipkogei Tobias Kurgat</h1>
+<h1 align="center">Hi 👋, I'm  Tobias Kurgat</h1>
 <h3 align="center">💼 Systems Developer | Business Central & ERP | Web Dev | Data Science</h3>
 
 <p align="center">
