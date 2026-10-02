@@ -28,6 +28,7 @@
 -🌍 Integration with third-party tools & services (e.g. M-Pesa, Email/SMS gateways, Cloud hosting APIs)
 
 -📊 Passionate about Data Science & Machine Learning
+-- learning dynamics 365 F&O
 
 -🤝 Looking to Collaborate On: ERP/Business Central Projects, Data-driven Projects & Open-source Contributions
 
