@@ -11,8 +11,7 @@
 
 -👀 Interests: Web Development | ERP Systems (Business Central) | Data Science | Mobile Apps
 
--🌱 Currently Learning: React | Android Development | AL Language (Business Central)
-
+-🌱 Currently Learning: React | Android Development | AL Language (Business Central) | Dynamic 365 F&O (Finance and operations)
 -💻 Developer Experience:
 
   --Microsoft Dynamics 365 Business Central (AL Language, Extensions & Customization)
